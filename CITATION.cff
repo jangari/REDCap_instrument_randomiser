@@ -5,6 +5,6 @@ authors:
   given-names: "Aidan"
   orcid: "https://orcid.org/0000-0001-9858-5470"
 title: "REDCap Instrument Randomisation Code Generator"
-doi: 10.5281/zenodo.7314581
+doi: 10.5281/zenodo.7314580
 date-released: 2022-11-11
 url: "https://github.com/jangari/REDCap_instrument_randomiser.git"
