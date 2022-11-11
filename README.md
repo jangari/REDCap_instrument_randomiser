@@ -1,5 +1,7 @@
 # REDCap Instrument Randomisation Code Generator
 
+[![DOI](https://zenodo.org/badge/564774045.svg)](https://zenodo.org/badge/latestdoi/564774045)
+
 By Aidan Wilson\
 aidan.wilson@intersect.org.au\
 [@aidan.wilson](https://community.projectredcap.org/users/3510/aidanwilson.html)\
